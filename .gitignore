@@ -44,14 +44,6 @@ venv.bak/
 *.sqlite
 *.db
 
-# Results and data
-results/
-data/
-*.csv
-*.xlsx
-*.xls
-*.json
-
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb
